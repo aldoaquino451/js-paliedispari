@@ -18,9 +18,12 @@ Dichiariamo chi ha vinto.
 
 #### Palindroma
 1. Salva in una variabile il nome inserito dall'utente
-2. Ciclo 
-    1. Verifica che il primo e l'ultimo carattere siano ===   
-    2. Verifica che il secondo e il penultimo siano === e via dicendo
+2. Salva la posizione del primo e dell'ultimo carattere
+3. Dichia un counter
+4. Se il primo carattere è uguale all'ultimo allora aumenta di 1 il counter
+5. Salva un elemento per scrivere il messaggio
+6. Dopo il ciclo, se il counter ha raggiunto lo stesso valore della lunghezza della parola allora stampa il messaggio di riuscita, altrimenti l'errore
+
 
 #### Pari e Dispari
 1. Chiedi all'utente di scegliere tra pari e dispari 
