@@ -30,4 +30,4 @@ Dichiariamo chi ha vinto.
 2. Chiedi all'utente di scegliere un numero da 1 a 5
 3. Genera un numero per il pc (function)
 4. Somma i numeri
-5. Se la somma è uguale alla scelta dell'utente allora vince lui altrimenti il pc
+5. Se la somma è uguale alla scelta dell'utente allora vince lui altrimenti il pc (function)
